@@ -11,6 +11,13 @@ header{
 a{
     color: rgb(230, 15, 15);
 }
-nav { spac
+nav { text-align: center;
 
+}
+footer{
+text-align: center;
+position: fixed;
+bottom: 0;
+left: 0;
+width: 100%;
 }
